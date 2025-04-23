@@ -1,4 +1,6 @@
-Original commit: 04803debdf3df0a822998ed30af0903cb399c56f
-Date: 2025-04-23 14:21:22 +0700
+Original commit: 98e2bc3d116b014039670991bb59702a0d926843
+Date: 2025-04-23 15:18:38 +0700
 Author: suka <khiemnguyen.hye@gmail.com>
-Message: Application property updated
+Message: Added logins and role-based access
+
+The roles are "STUDENT", "TEACHER", "PRINCIPLE"
