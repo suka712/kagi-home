@@ -1,6 +1,4 @@
-Original commit: b22cb650506d3bb246e2f8b6e966d2a95f8ca444
-Date: 2025-04-24 00:47:02 +0700
+Original commit: 54e50308feb94614fe8da32e14acb61ac317e4c9
+Date: 2025-04-24 23:36:00 +0700
 Author: suka <khiemnguyen.hye@gmail.com>
-Message: JDBC user and role support added
-
-Removed user and password hardcoding - replaced with JDBC user and role from SQL database.
+Message: Update SecurityConfig.class
