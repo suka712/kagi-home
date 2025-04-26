@@ -1,4 +1,4 @@
-Original commit: ebd8f7f6034d24c04db5c0bc9d3871ec7a29972e
-Date: 2025-04-27 06:49:11 +0700
+Original commit: 2b88260589afe27325216e004909b630679db7b5
+Date: 2025-04-27 06:49:15 +0700
 Author: suka <khiemnguyen.hye@gmail.com>
-Message: Create create-user-authority-table.sql
+Message: Merge branch 'main' of https://github.com/khiemnguyen712/spring-boot-rest-api-security
