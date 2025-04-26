@@ -1,4 +1,4 @@
-Original commit: 54e50308feb94614fe8da32e14acb61ac317e4c9
-Date: 2025-04-24 23:36:00 +0700
+Original commit: ebd8f7f6034d24c04db5c0bc9d3871ec7a29972e
+Date: 2025-04-27 06:49:11 +0700
 Author: suka <khiemnguyen.hye@gmail.com>
-Message: Update SecurityConfig.class
+Message: Create create-user-authority-table.sql
